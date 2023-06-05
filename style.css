@@ -1,0 +1,75 @@
+.main{
+    width: 300px;
+    border: 5px solid orangered;
+    box-shadow: 8px 8px 12px  orangered;
+    border-radius:50%;
+    height: 300px;
+    text-align: center;
+    margin: 2% auto;
+    background-color: rgb(50, 49, 49);
+}
+#startBtn{
+margin: 5px;
+padding: 5px 15px ;
+background-color: green;
+color: white;
+border: 1px solid green;
+border-radius: 5px;
+}
+
+#startBtn:hover{
+    background-color:white;
+    color: green;
+    border: 3px solid green;
+
+}
+#resetBtn{
+    margin: 5px;
+padding: 5px 15px ;
+background-color: lightskyblue;
+color: rgb(255, 255, 255);
+border: 1px solid lightskyblue;
+border-radius: 5px;
+}
+
+
+#resetBtn:hover{
+    background-color: rgb(252, 252, 252);
+    color:  lightskyblue;
+    border: 3px solid lightblue;
+}
+
+#stopBtn{
+    margin: 5px;
+    padding: 5px 15px ;
+    background-color: red;
+    color: white;
+    border: 1px solid red;
+    border-radius: 5px;
+}
+#stopBtn:hover{
+    background-color: white;
+    color: red;
+    border: 3px solid red;
+}
+span{
+    margin: 2px 28px;
+    color: white;
+    font-size: 1.1em;
+}
+.dhi{
+    padding-top: 33%;
+}
+h1{
+    text-align: center;
+    font-size: 5.5em;
+}
+.main:hover{
+    border: 5px solid blueviolet;
+box-shadow: 8px 8px 15px blueviolet;
+}
+
+
+
+
+
